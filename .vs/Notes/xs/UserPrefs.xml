@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5BEFC3DD-4101-41F9-9A15-32C840675EB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="31" />
+      <File FileName="Notes.cs" Line="12" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes" expanded="True">
+            <Node name="Notes" expanded="True">
+              <Node name="Notes.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Notes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

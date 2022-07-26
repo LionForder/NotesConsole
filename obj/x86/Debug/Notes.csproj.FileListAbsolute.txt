@@ -1,0 +1,18 @@
+/home/lionforder/Рабочий стол/ForMe/Notes/bin/Debug/Notes.exe
+/home/lionforder/Рабочий стол/ForMe/Notes/bin/Debug/Notes.pdb
+/home/lionforder/Рабочий стол/ForMe/Notes/obj/x86/Debug/Notes.csproj.AssemblyReference.cache
+/home/lionforder/Рабочий стол/ForMe/Notes/obj/x86/Debug/Notes.csproj.CoreCompileInputs.cache
+/home/lionforder/Рабочий стол/ForMe/Notes/obj/x86/Debug/Notes.exe
+/home/lionforder/Рабочий стол/ForMe/Notes/obj/x86/Debug/Notes.pdb
+/home/lionforder/Рабочий стол/Projects/C#/ProjectsForMe/Notes/bin/Debug/Notes.exe
+/home/lionforder/Рабочий стол/Projects/C#/ProjectsForMe/Notes/bin/Debug/Notes.pdb
+/home/lionforder/Рабочий стол/Projects/C#/ProjectsForMe/Notes/obj/x86/Debug/Notes.csproj.AssemblyReference.cache
+/home/lionforder/Рабочий стол/Projects/C#/ProjectsForMe/Notes/obj/x86/Debug/Notes.csproj.CoreCompileInputs.cache
+/home/lionforder/Рабочий стол/Projects/C#/ProjectsForMe/Notes/obj/x86/Debug/Notes.exe
+/home/lionforder/Рабочий стол/Projects/C#/ProjectsForMe/Notes/obj/x86/Debug/Notes.pdb
+/home/lionforder/Projects/MyLearn/C#/Console/Notes/bin/Debug/Notes.exe
+/home/lionforder/Projects/MyLearn/C#/Console/Notes/bin/Debug/Notes.pdb
+/home/lionforder/Projects/MyLearn/C#/Console/Notes/obj/x86/Debug/Notes.csproj.AssemblyReference.cache
+/home/lionforder/Projects/MyLearn/C#/Console/Notes/obj/x86/Debug/Notes.csproj.CoreCompileInputs.cache
+/home/lionforder/Projects/MyLearn/C#/Console/Notes/obj/x86/Debug/Notes.exe
+/home/lionforder/Projects/MyLearn/C#/Console/Notes/obj/x86/Debug/Notes.pdb
